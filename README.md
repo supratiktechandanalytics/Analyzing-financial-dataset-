@@ -15,5 +15,5 @@ I used the BI tool of Power BI for performing data wrangling, data modelling and
 - Senior employees have higher EMI amount since they get shorter duration to payoff the EMIs.
 - The EMI amoun increases expoentially for senior employees with more than a decade of work experience as they have very less time to payoff the EMI on time.
 -  From the verified accounts:
-    -  PAs accounted for only 37.5% of the total verified accounts.
+    -  NPAs accounted for only 37.5% of the total verified accounts.
     -  Fully paid account constituted for 87.5% of total verified accounts.
